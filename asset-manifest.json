@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Erastus2/task-tracker-app/static/css/main.2811ac8c.css",
+    "main.js": "/Erastus2/task-tracker-app/static/js/main.ee82b3e6.js",
+    "index.html": "/Erastus2/task-tracker-app/index.html",
+    "main.2811ac8c.css.map": "/Erastus2/task-tracker-app/static/css/main.2811ac8c.css.map",
+    "main.ee82b3e6.js.map": "/Erastus2/task-tracker-app/static/js/main.ee82b3e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2811ac8c.css",
+    "static/js/main.ee82b3e6.js"
+  ]
+}
